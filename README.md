@@ -17,3 +17,9 @@ https://www.amazon.com.br/gp/bestsellers/books/13984942011/ref=pd_zg_hrsr_books 
 
 ___
 
+Writing clean code is what you must do in order to call yourself a professional. There is no reasonable excuse for doing anything less than your best.
+
+
+> Learning to write clean code is hard work. It requires more than just the knowledge of principles and patterns. You must sweat over it. You must practice it yourself, and watch yourself fail. You must watch others practice it and fail. You must see them stumble and retrace their steps. You must see them agonize over decisions and see the price they pay for making those decisions the wrong way. (Introduction, page xxvi)
+
+
